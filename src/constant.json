@@ -1,0 +1,44 @@
+{
+    "experiences":[
+     {
+         "company":"ABC",
+         "link":"/",
+         "title":"Software Developer",
+         "duration":"April 2022-Feb 2023",
+         "desc":[ 
+             "No Experience",
+              "Fresher"
+             
+         ]
+     },
+     {
+        "company":"BCD",
+        "link":"/",
+        "title":"Front End Developer",
+        "duration":"April 2022-Feb 2023",
+        "desc":[
+            "No Experience",
+            "Fresher"
+        ]
+    }
+
+    ],
+    "projects":[
+        {
+            "title":"Quizz Web Application",
+            "image": "images/quiz.png",
+            "desc":"Quiz of random words",
+            "skills":["Reactjs" ,"Html","CSS","JavaScript"],
+            "github":"/",
+            "link":"/"
+        },
+        {
+            "title":"Ecommerce Web Application",
+            "image": "/images/gym_image.png",
+            "desc":"Gym Website ",
+            "skills":["JavaScript","Reactjs" ,"Html","CSS"],
+            "github":"/",
+            "link":"/"
+        }
+    ]
+}

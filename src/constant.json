@@ -34,7 +34,7 @@
         },
         {
             "title":"Ecommerce Web Application",
-            "image": "/images/gym_image.png",
+            "image": "images/gym_image.png",
             "desc":"Gym Website ",
             "skills":["JavaScript","Reactjs" ,"Html","CSS"],
             "github":"/",
